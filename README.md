@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abir Stitou</h1>
 
 
-<p align="center">I'm a curious and passionate software engineering student from Morocco, driven by the challenge of turning ideas into impactful, user-focused applications. I love writing clean, efficient code and thrive on solving real-world problems through thoughtful solutions. Always eager to learn, I continuously explore new technologies and tools to sharpen my skills and stay ahead in the fast-moving world of software development. For me, coding isn’t just a skill—it’s a craft I’m excited to keep mastering.</p>
+<p align="center">I'm a curious and passionate software engineering student from Morocco, fascinated by building impactful, user-focused applications. I enjoy writing clean, efficient code and solving real-world problems with thoughtful solutions. I’m particularly interested in full-stack development, DevOps, and cloud technologies, and I love exploring new tools to sharpen my skills. For me, coding isn’t just a skill—it’s a craft I’m excited to keep mastering.</p>
 
 <h3 align="center">Linkedin:</h3>
 <p align="center">
